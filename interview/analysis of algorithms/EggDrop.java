@@ -24,5 +24,15 @@ public class EggDrop {
         //so the breaking-floor is between 2^(t-1) and 2^t.
         //Then perform the binary search between 2^(t-1) and 2^t;
     }
+    public int VersionThree(int n) {
+        //i = 1, sqrt(n), 2sqrt(n) ......until the egg breaks;
+        //if egg breaks on floor t;
+        //start at floor t-1 and toss the eggs on each floor until the egg breaks,
+        //then we get T. 
+    }
+    public int VersionFour(int n) {
+        //i = 1, 1+2, 1+2+3, ......
+        //
+    }
 
 }
