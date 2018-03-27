@@ -18,3 +18,8 @@ assignment/2.Deques and Randomized Queues/queues/duplicates.txt
 assignment/2.Deques and Randomized Queues/queues/tale.txt
 assignment/2.Deques and Randomized Queues/queues/tinyTale.txt
 interview/Stacks and Queues/JavaGenerics.java
+*.jar
+*.txt
+*.zip
+assignment/2.Deques and Randomized Queues/TestRandemizedQueue.java
+assignment/2.Deques and Randomized Queues/TestDeque.java
